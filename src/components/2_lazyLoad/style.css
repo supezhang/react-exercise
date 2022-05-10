@@ -1,0 +1,6 @@
+.lazy-wrapper{display:flex;}
+.nav-side{flex:0 0 200px;display:flex;flex-direction: column;border:1px solid #ccc;border-radius: 4px;box-shadow: 0 0 3px 3px #eee;padding:0;}
+.nav-side a{text-decoration: none;color:#010101;line-height: 32px;padding:0 12px;border-bottom:1px solid #ccc;}
+.nav-side .active{color:#5d78ff;}
+.lazy-content{flex:1;padding:20px;}
+*{margin:0;padding:0;box-sizing: border-box;}
